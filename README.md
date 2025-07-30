@@ -87,17 +87,17 @@ Computer Science student at **Dhirubhai Ambani University**, passionate about ar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat21112005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Akshat's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akshatmaster818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Akshat's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat21112005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat21112005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatmaster818&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat21112005&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatmaster81&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatmaster81&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -107,7 +107,7 @@ Computer Science student at **Dhirubhai Ambani University**, passionate about ar
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akshat21112005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akshatmaster818&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
